@@ -2,8 +2,10 @@
 
 # Sage Development Projects Ideas
 
-<br><br><br>
-<br>
+<br><br>
+See <https://github.com/williamstein/reu2013>
+<br><br>
+<br><br>
 
 ## Poll: Raise your hand if *you* like creating useful software <i class="icon-hand-up"></i>
 
