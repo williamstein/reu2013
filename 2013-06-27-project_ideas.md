@@ -10,7 +10,7 @@
 
 <div style="height:40em"></div>
 
-## Project: rite a Sage thematic tutorial for the inverse problems REU
+## Project: Write a Sage thematic tutorial for the inverse problems REU
 
 **Tasks include:**
 
