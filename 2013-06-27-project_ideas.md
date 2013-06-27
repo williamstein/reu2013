@@ -100,6 +100,28 @@ See <https://github.com/williamstein/reu2013>
 (make a list -- commment on potential of project ideas)
 
 
+ - Discrete Radon Transform  (maybe this is relevant: <https://github.com/holtzhau/scikits.image/blob/master/skimage/transform/radon_transform.py>)
+
+ - Create an Electrical Network class
+
+Sage Developers Guide: http://www.sagemath.org/doc/developer/
+
+ - Connection determinants -- watch out, huge  (baby examples)
+
+ - Implement electrical network algorithms that solve problems that are also solved via other techniques, compare, etc.
+
+ - Medial graphs:
+
+    - draw
+    - compute
+    - catalogue of graphs.
+    - draw sets of cells, take closures, etc.
+
+
+
+
+
+
 
 
 
